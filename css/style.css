@@ -1,3 +1,8 @@
 body{
     background-color: blue;
 }
+button{
+     border-width: 0cap;
+     border-bottom: 0cqmin;
+     border-radius: 0cqmax;
+}
